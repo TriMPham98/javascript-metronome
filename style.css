@@ -26,5 +26,8 @@ body {
   justify-content: space-between;
 }
 
-
-
+.bpm-display {
+  width: 100%;
+  text-align: center;
+  color: #fa545c;
+}
