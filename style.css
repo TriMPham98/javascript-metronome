@@ -16,3 +16,15 @@ body {
   align-items: center;
   height: 100vh;
 }
+
+.metronome {
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 250px;
+  justify-content: space-between;
+}
+
+
+
