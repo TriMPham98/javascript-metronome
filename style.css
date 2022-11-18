@@ -43,3 +43,8 @@ body {
   text-transform: uppercase;
   text-align: center;
 }
+
+.tempo-settings {
+  display: flex;
+  justify-content: space-between;
+}
